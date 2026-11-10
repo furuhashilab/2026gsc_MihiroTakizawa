@@ -1,8 +1,9 @@
-# 2026gsc_MihiroTakizawa　※自分の名前・リポジトリ名に変更
+# 2026gsc_MihiroTakizawa　
 
 ## 卒業論文テーマ
 
 **「高校生とロールモデルの接点を増やす既存の仕組みの調査」**　※テーマが変わったら更新
+https://aoyamajp-my.sharepoint.com/:p:/g/personal/aa122112_aoyama_jp/IQC2t7cgkCDIQKJ3h6n0b7iVAcyvcAjWuYiQTJrk0QCwQmM?e=pKxfob
 
 ---
 
