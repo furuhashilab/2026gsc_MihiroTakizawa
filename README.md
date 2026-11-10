@@ -84,7 +84,7 @@ https://aoyamajp-my.sharepoint.com/:p:/g/personal/aa122112_aoyama_jp/IQC2t7cgkCD
 
 ---
 
-## 卒論提出までのスケジュール　※完了したら [ ] を [x] に変更
+## 卒論提出までのスケジュール
 
 | 日付 | 内容 | 状況 |
 |---|---|---|
